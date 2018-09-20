@@ -46,3 +46,4 @@ def getExample(l):  # 获取表达式
         last = ''.join(re.split('\|', a))
 
     return a, last
+
